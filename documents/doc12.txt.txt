@@ -1,0 +1,5 @@
+Machine learning enhances image recognition.  
+Neural networks classify objects accurately.  
+Training datasets improve model performance.  
+Deep learning handles complex patterns.  
+Computer vision powers smart devices.

@@ -1,0 +1,5 @@
+Data science extracts insights from raw data.  
+Statistical models reveal hidden patterns.  
+Visualization tools present results clearly.  
+Predictive analytics supports business decisions.  
+Data quality influences model accuracy.

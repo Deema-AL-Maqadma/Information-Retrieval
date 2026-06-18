@@ -1,0 +1,5 @@
+Software engineering requires clean code.  
+Developers design modular components.  
+Testing ensures system reliability.  
+Version control organizes project workflow.  
+Good documentation improves team collaboration.

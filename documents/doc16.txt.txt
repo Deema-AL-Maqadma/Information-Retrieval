@@ -1,0 +1,5 @@
+Robotics automates repetitive tasks.  
+Industrial robots assemble products quickly.  
+Sensors guide robotic movement.  
+Automation reduces human error.  
+Smart robots support manufacturing.

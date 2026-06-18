@@ -1,0 +1,5 @@
+Natural language processing analyzes text data.  
+Tokenization prepares sentences for modeling.  
+Word embeddings capture semantic meaning.  
+Chatbots assist customer service.  
+Language models generate human‑like responses.
